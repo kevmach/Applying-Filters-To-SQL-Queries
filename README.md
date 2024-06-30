@@ -1,1 +1,2 @@
 # Applying-Filters-To-SQL-Queries
+As a security professional at a large organization, part of my responsibility is to investigate potential security issues to maintain system security. This project involves examining data from the organization's employees and log_in_attempts tables to uncover and address potential security threats. Using SQL filters, we retrieve and analyze records from these datasets to investigate suspicious activities and security concerns.
